@@ -18,7 +18,7 @@
 
 1. **创建GitHub仓库**
    - 登录GitHub，创建新仓库
-   - 仓库名建议：`time-management-master` 或 `anqi-time-manager`
+   - 仓库名建议：`time-management-master`
 
 2. **上传文件**
    - 将 `index.html` 文件上传到仓库根目录
